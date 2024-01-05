@@ -36,7 +36,7 @@ It is a framework for learning node embeddings from static subgraphs using a gra
 
 
 <p align="center">
-  <img width="30%" src="https://app.gemoo.com/share/image-annotation/601994460568985600?codeId=M0BAEVWVdQQqX&origin=imageurlgenerator" />
+  <img width="30%" src="[https://app.gemoo.com/share/image-annotation/601994460568985600?codeId=M0BAEVWVdQQqX&origin=imageurlgenerator](https://app.gemoo.com/share/image-annotation/601999289580212224?codeId=M0BAg8rnVlrEo&origin=imageurlgenerator)" />
 </p>
 
 ### Model
