@@ -39,7 +39,9 @@ It is a framework for learning node embeddings from static subgraphs using a gra
 - **RES** is a method that randomly assigns each edge in the training graph to one of the subgraphs, such that each subgraph contains a fraction of the original edges. The nodes in each subgraph are the same as the original graph, but the edges are different. This way, the subgraphs capture different aspects of the graph structure and features, and can be used to learn node embeddings using a GAE.
 
 
-<img src="[Ness.png](https://app.gemoo.com/share/image-annotation/601994460568985600?codeId=M0BAEVWVdQQqX&origin=imageurlgenerator&card=601994458027237376)" width="800" height="800">
+<p align="center">
+  <img width="30%" src="[https://user-images.githubusercontent.com/6945922/38684093-36d9c52e-3e6f-11e8-9021-db054223c6b9.png](https://app.gemoo.com/share/image-annotation/601994460568985600?codeId=M0BAEVWVdQQqX&origin=imageurlgenerator)" />
+</p>
 
 ### Model
 
