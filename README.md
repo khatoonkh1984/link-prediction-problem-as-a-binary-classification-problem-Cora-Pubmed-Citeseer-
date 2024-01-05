@@ -24,10 +24,6 @@ problem as follows:
    Under Curve (AUC).
 
 
-
-
-
-
 ## 2.The NESS model
 It is a framework for learning node embeddings from static subgraphs using a graph autoencoder (GAE) in a transductive setting. A GAE is a neural network that encodes the graph structure and features into a low-dimensional latent space, and then decodes the latent space to reconstruct the original graph. A transductive setting is a learning scenario where the model is trained and tested on the same set of nodes, but different sets of edges.
 
@@ -40,7 +36,7 @@ It is a framework for learning node embeddings from static subgraphs using a gra
 
 
 <p align="center">
-  <img width="30%" src="[https://user-images.githubusercontent.com/6945922/38684093-36d9c52e-3e6f-11e8-9021-db054223c6b9.png](https://app.gemoo.com/share/image-annotation/601994460568985600?codeId=M0BAEVWVdQQqX&origin=imageurlgenerator)" />
+  <img width="30%" src="https://app.gemoo.com/share/image-annotation/601994460568985600?codeId=M0BAEVWVdQQqX&origin=imageurlgenerator" />
 </p>
 
 ### Model
