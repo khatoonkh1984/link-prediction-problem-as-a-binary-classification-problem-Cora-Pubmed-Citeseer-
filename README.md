@@ -3,7 +3,7 @@ link prediction problem as a binary classification problem(Cora, Pubmed, Citesee
 ----------------------------------------------
 Link prediction is a task in graph and network analysis where the goal is to predict missing or future connections between nodes in a network. Given a partially observed network, the goal of link prediction is to infer which links are most likely to be added or missing based on the observed connections and the structure of the network. In this report, we evaluate some networks on link prediction task for Cora dataset. We compare models in some criteta such as time inference, ,auc , size of model and needed time for buliding model. 
 
-## 1.GraphSAGE model
+## 1.GraphSAGE model 
 
 This model is consisting of two **GraphSAGE layers(from DGL Library)**, each computes new node representations by averaging neighbor information. GraphSAGE was developed by Hamilton, Ying, and Leskovec (2017) 
 
