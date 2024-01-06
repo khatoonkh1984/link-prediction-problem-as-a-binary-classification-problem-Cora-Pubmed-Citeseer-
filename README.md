@@ -65,9 +65,9 @@ The structure of the WalkPool model consists of four main steps:
 **3. Walk probability pooling:** This step computes the walk probabilities of the paths connecting the target nodes in the latent graph. The walk probabilities are obtained by multiplying the transition probabilities of the latent graph, which are derived from the attention weights. The walk probabilities are then pooled to form a feature vector that summarizes the putative link.
 
 **4.Link classification:** This step feeds the feature vector to a classifier to predict the link label. The classifier can be either a linear layer or a multi-layer perceptron.
-
-<img src="Images/wp-illustration.png" width="500" height="300">
-
+<p align="center">
+<img src="Images/wp-illustration.png" width="500" height="250">
+<P>
 ## Evaluation
 |Dataset|Model       |Epoch| Time-inference|Test Accuracy|
 |--     |--          |--   |---            |         --  |
