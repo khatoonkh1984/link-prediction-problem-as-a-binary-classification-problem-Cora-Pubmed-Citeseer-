@@ -67,7 +67,8 @@ The structure of the WalkPool model consists of four main steps:
 **4.Link classification:** This step feeds the feature vector to a classifier to predict the link label. The classifier can be either a linear layer or a multi-layer perceptron.
 <p align="center">
 <img src="Images/wp-illustration.png" width="500" height="250">
-<P>
+</p>
+   
 ## Evaluation
 |Dataset|Model       |Epoch| Time-inference|Test Accuracy|
 |--     |--          |--   |---            |         --  |
